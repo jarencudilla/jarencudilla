@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML / CSS / Javascript / Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [jarencudilla.github.io](jarencudilla.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://jarencudilla.github.io" target="blank">jarencudilla.github.io</a>
 
 - 📝 I regularly write articles on [https://jaren.cudilla.net](https://jaren.cudilla.net)
 
