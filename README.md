@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarencudilla&show_icons=true&locale=en" alt="jarencudilla" /></p>
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=jarencudilla/https://github.com/rommeltorquator/stock-app)
+![Rails Stock App - StockXchange](https://contrib.rocks/image?repo=rommeltorquator/stock-app)
