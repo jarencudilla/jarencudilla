@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/jaren.cudilla/" target="blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="https://www.facebook.com/jaren.cudilla/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/badongpagong/" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="https://www.instagram.com/badongpagong/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gamerdadjaren" target="blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Xoomvision Gaming" height="30" width="40" /></a>
-<a href="hhttps://www.youtube.com/feeds/videos.xml?channel_id=UCsAe1ITCyM_x6mAqGjtb9Lg" target="blank"><img align="center" src="https://simpleicons.org/icons/rss.svg" alt="https://www.youtube.com/feeds/videos.xml?channel_id=ucsae1itcym_x6maqgjtb9lg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCsAe1ITCyM_x6mAqGjtb9Lg" target="blank"><img align="center" src="https://simpleicons.org/icons/rss.svg" alt="https://www.youtube.com/feeds/videos.xml?channel_id=ucsae1itcym_x6maqgjtb9lg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
