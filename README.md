@@ -20,9 +20,8 @@
 <a href="https://www.linkedin.com/in/jarencharlescudilla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="https://www.linkedin.com/in/jarencharlescudilla/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7032637/jaren" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/7032637/jaren" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jaren.cudilla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="https://www.facebook.com/jaren.cudilla/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/badongpagong/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="https://www.instagram.com/badongpagong/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/badongpagong/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="https://www.instagram.com/badongpagong/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gamerdadjaren" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" alt="Xoomvision Gaming" height="30" width="40" /></a>
-<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCsAe1ITCyM_x6mAqGjtb9Lg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rss.svg" alt="https://www.youtube.com/feeds/videos.xml?channel_id=ucsae1itcym_x6maqgjtb9lg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
