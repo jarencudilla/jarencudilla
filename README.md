@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaren" target="blank"><img src="https://img.shields.io/twitter/follow/jaren?logo=twitter&style=for-the-badge" alt="jaren" /></a> </p>
 
-- 🌱 I’m currently learning **HTML / CSS / Javascript / Ruby on Rails**
+- 🌱 I’m currently learning **HTML / CSS / Javascript / ReactJS / Ruby on Rails **
 
 - 👨‍💻 All of my projects are available at <a href="https://jarencudilla.github.io" target="blank">jarencudilla.github.io</a>
 
