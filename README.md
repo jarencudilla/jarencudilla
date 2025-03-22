@@ -9,10 +9,6 @@
   </a> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/jaren" target="blank">
-    <img src="https://img.shields.io/twitter/follow/jaren?logo=twitter&style=for-the-badge" alt="jaren" />
-  </a> 
 </p>
 
 ---
