@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I’m Jaren</h1>
-<h3 align="center">Head of QA & PM | Creator of QAJourney & Engineered AI | Chaos Optimizer | Regression Report Evangelist</h3>
+<h3 align="center">Head of QA & PM | Creator of QAJourney & Engineered AI | Chaos Engineer | QA Overlord</h3>
 ---
 
 ### 🐞 About Me
@@ -33,8 +33,8 @@ I'm the guy testers go to when they're stuck, leads go to when they need answers
 [![YouTube (Engineered AI)](https://img.shields.io/badge/Engineered%20AI-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@engineeredai)
 [![YouTube (CTRL+ALT+SURVIVE)](https://img.shields.io/badge/CTRL%2BALT%2BSURVIVE-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ctrlaltsurvive)
 [![Reddit](https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/Flimsy_Organization4/)
-[![Facebook (QAJ)](https://img.shields.io/badge/Facebook%20(QAJ)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/qajourneyblog)
-[![Facebook (EAI)](https://img.shields.io/badge/Facebook%20(EAI)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/engineeredaiblog)
+[![Facebook (QAJ)](https://img.shields.io/badge/Facebook%20(QAJ)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/breakverify)
+[![Facebook (EAI)](https://img.shields.io/badge/Facebook%20(EAI)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/notquitesentient)
 [![Facebook (CAS)](https://img.shields.io/badge/Facebook%20(CAS)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/ctrlaltsurvive)
 
 ---
@@ -43,8 +43,6 @@ I'm the guy testers go to when they're stuck, leads go to when they need answers
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Support%20QA%20Journey-white?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00)](https://www.buymeacoffee.com/qajourney)
 
-**🧠 Newsletter & Tier Perks launching soon** – PDFs, badges, and supporter-only QA drops via ConvertKit  
-**🚧 Engineered AI donations + tiers coming next**
 
 ---
 
