@@ -21,12 +21,12 @@ I'm the guy testers go to when they're stuck, leads go to when they need answers
 
 ### 🧠 My Blogs
 
-- [**QA Journey**](https://qajourney.net) – Practical QA tips, test case writing, bug reporting, and career growth
-- [**Engineered AI**](https://engineeredai.net) – AI tools, automation workflows, and no-code systems that don't suck
-- [**Hobby Engineered**](https://hobbyengineered.com) – DIY projects, maker guides, and hobby tech without overcomplication
-- [**Remote Work Haven**](https://remoteworkhaven.net) – Survival guide for freelancers, WFH pros, and digital nomads
-- [**Momentum Path**](https://momentumpath.net) – Productivity tips, self-improvement without toxic hustle culture
-- [**Healthy Forge**](https://healthyforge.com) – Wellness for smart, busy people who don't have time to waste
+- [**QAJourney**](https://qajourney.net) – Practical QA tips, test case writing, bug reporting, and career growth
+- [**EngineeredAI**](https://engineeredai.net) – AI tools, automation workflows, and no-code systems that don't suck
+- [**HobbyEngineered**](https://hobbyengineered.com) – DIY projects, maker guides, and hobby tech without overcomplication
+- [**RemoteWorkHaven**](https://remoteworkhaven.net) – Survival guide for freelancers, WFH pros, and digital nomads
+- [**MomentumPath**](https://momentumpath.net) – Productivity tips, self-improvement without toxic hustle culture
+- [**HealthyForge**](https://healthyforge.com) – Wellness for smart, busy people who don't have time to waste
 
 ---
 
