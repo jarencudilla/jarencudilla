@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Jaren</h1>
-<h3 align="center">Head of QA | Creator of QAJourney & Engineered AI | Chaos Engineer | QA Overlord</h3>
+<h3 align="center">Head of QA | Creator of QAJourney & EngineeredAI | Chaos Engineer | QA Overlord</h3>
 
 ---
 
@@ -33,9 +33,9 @@ I'm the guy testers go to when they're stuck, leads go to when they need answers
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jarencharlescudilla/)
-[![YouTube (Personal)](https://img.shields.io/badge/FutureproofCreator-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@futureproofcreator)
-[![YouTube (QA Journey)](https://img.shields.io/badge/QA%20Journey-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@qajourneyblog)
-[![YouTube (Engineered AI)](https://img.shields.io/badge/Engineered%20AI-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@engineeredai)
+[![YouTube (HobbyEngineered)](https://img.shields.io/badge/FutureproofCreator-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@hobbyengineered)
+[![YouTube (QAJourney)](https://img.shields.io/badge/QA%20Journey-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@qajourneyblog)
+[![YouTube (EngineeredAI)](https://img.shields.io/badge/Engineered%20AI-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@engineeredai)
 [![YouTube (CTRL+ALT+SURVIVE)](https://img.shields.io/badge/CTRL%2BALT%2BSURVIVE-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ctrlaltsurvive)
 [![Reddit](https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/Flimsy_Organization4/)
 [![Facebook (QAJ)](https://img.shields.io/badge/Facebook%20(QAJ)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/breakverify)
