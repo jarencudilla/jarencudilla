@@ -38,9 +38,9 @@ I'm the guy testers go to when they're stuck, leads go to when they need answers
 [![YouTube (EngineeredAI)](https://img.shields.io/badge/Engineered%20AI-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@engineeredai)
 [![YouTube (CTRL+ALT+SURVIVE)](https://img.shields.io/badge/CTRL%2BALT%2BSURVIVE-white?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ctrlaltsurvive)
 [![Reddit](https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/Flimsy_Organization4/)
-[![Break/Verify](https://img.shields.io/badge/Facebook%20(QAJ)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/breakverify)
-[![Not Quite Sentient](https://img.shields.io/badge/Facebook%20(EAI)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/notquitesentient)
-[![CTRL+ALT+SURVIVE](https://img.shields.io/badge/Facebook%20(CAS)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/ctrlaltsurvive)
+[![Facebook (Break/Verify)](https://img.shields.io/badge/Facebook%20(QAJ)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/breakverify)
+[![Facebook (Not Quite Sentient)](https://img.shields.io/badge/Facebook%20(EAI)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/notquitesentient)
+[![Facebook (CTRL+ALT+SURVIVE)](https://img.shields.io/badge/Facebook%20(CAS)-white?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/ctrlaltsurvive)
 
 ---
 
