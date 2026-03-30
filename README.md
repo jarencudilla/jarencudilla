@@ -7,7 +7,7 @@
 
 I'm the guy testers go to when they're stuck, leads go to when they need answers, and devs go to when something breaks and no one knows why.
 
-🧪 **Head of QA** — Testing strategies, automation, performance checks, UAT... and yelling at flaky pipelines.
+🧪 **Former Head of QA** — Testing strategies, automation, performance checks, UAT... and yelling at flaky pipelines.
 
 ⚙️ **Former PM & Scrum Master** — I've translated chaos into Jira tickets and made sure things actually ship.
 
